@@ -9,7 +9,7 @@ public class Multiply {
         while(i<=n)
         {
             
-            System.out.println(16+" X "+i+" = "+15*i);
+            System.out.println(16+" X "+i+" = "+16*i);
             i=i+1;
             
         }
